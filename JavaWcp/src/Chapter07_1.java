@@ -1,5 +1,5 @@
 
-public class Chapter07 {
+public class Chapter07_1 {
 
 	public static void main(String[] args) {
 		int distance = 17;
